@@ -25,7 +25,8 @@ figcaption{
   text-align: center;
 }
 
-nav{
+nav
+  font-family
   font-size: 1.125rem;
   font-weight: bold;
 }
